@@ -4,7 +4,7 @@
   NetScan - Network Port Scanner & Reconnaissance Tool
   Author  : [Piyush Sharma]
   College : [GL Bajaj Institute Of Technology and Management]
-  Purpose : Cybersecurity Internship Project
+  Purpose : Cybersecurity Project
   Version : 2.4.1
 ============================================================
 
