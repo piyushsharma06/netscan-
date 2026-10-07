@@ -67,5 +67,5 @@ This tool is for **educational purposes only**. Only scan networks and systems y
 
 ## Author
 
-[Your Name] | [College Name] | Cybersecurity Internship Project 2025
+[Piyush Sharma] |  Cybersecurity Internship Project 2026
 "# netscan-" 
