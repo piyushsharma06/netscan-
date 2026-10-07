@@ -14,8 +14,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/netscan
-cd netscan
+git clone https://github.com/piyushsharma06/netscan-.git
+cd netscan-
 python3 network_scanner.py --help
 ```
 
